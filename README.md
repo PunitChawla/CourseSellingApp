@@ -1,2 +1,2 @@
 #Course App
--This is learting 
+-This is learning app 
